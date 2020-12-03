@@ -1,0 +1,6 @@
+2020-11-14T22:59:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress2\wordpress\wp-content\plugins\wordpress-seo\src\presenters\twitter\site-presenter.php on line 11
+
+2020-11-14T23:02:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress2\wordpress\wp-content\plugins\woocommerce\includes\gateways\paypal\includes\settings-paypal.php on line 12
+
+2020-11-14T23:05:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress2\wordpress\wp-includes\Requests\Transport\cURL.php on line 441
+

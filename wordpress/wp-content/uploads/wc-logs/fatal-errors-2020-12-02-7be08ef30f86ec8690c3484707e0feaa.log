@@ -1,0 +1,16 @@
+2020-12-02T15:17:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress2\wordpress\wp-content\plugins\wordpress-seo\inc\date-helper.php on line 13
+
+2020-12-02T15:18:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress2\wordpress\wp-content\plugins\elementor\modules\admin-bar\module.php on line 7
+
+2020-12-02T15:18:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress2\wordpress\wp-includes\class-wp-admin-bar.php on line 15
+
+2020-12-02T16:59:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress2\wordpress\wp-includes\blocks.php on line 190
+
+2020-12-02T17:01:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress2\wordpress\wp-content\plugins\wordpress-seo\inc\wpseo-functions.php on line 8
+
+2020-12-02T17:01:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress2\wordpress\wp-content\plugins\wordpress-seo\lib\migrations\adapter.php on line 11
+
+2020-12-02T17:01:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress2\wordpress\wp-content\plugins\wordpress-seo\src\generated\container.php on line 19
+
+2020-12-02T17:01:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress2\wordpress\wp-content\plugins\wordpress-seo\src\generated\container.php on line 19
+
